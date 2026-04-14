@@ -275,6 +275,7 @@ AI tools handle the syntax. You handle the thinking.
 If you're building AI tools, learning to ship with Claude/GPT, or just starting your PM journey:
 
 - 🔗 Try PromptOS: [prompt-os.bolt.host](https://prompt-os.bolt.host)
+- Repo- [github.com/prernaaagarwal/PromptOS](https://github.com/prernaaagarwal/PromptOS)
 
 **I'm documenting everything.** The wins, the failures, the "I have no idea what I'm doing" moments.
 
